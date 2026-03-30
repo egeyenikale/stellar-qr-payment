@@ -1,0 +1,139 @@
+{
+  "slug": "stellar-qr-payment",
+  "title": "Stellar QR Payment",
+  "category": "blockchain",
+  "difficulty": "large",
+  "period": "2026-Q2",
+  "estimatedCommits": 20,
+  "description": "Stellar-based QR payment application.",
+  "features": [
+    "Payment request creation",
+    "QR generation",
+    "Wallet payment flow",
+    "Transaction verification",
+    "Receipt view",
+    "Dashboard"
+  ],
+  "commits": [
+    {
+      "number": 1,
+      "type": "chore",
+      "title": "initialize project structure",
+      "commitMessage": "chore: initialize project structure"
+    },
+    {
+      "number": 2,
+      "type": "feat",
+      "title": "add core domain model",
+      "commitMessage": "feat: add core domain model"
+    },
+    {
+      "number": 3,
+      "type": "feat",
+      "title": "configure persistence or state layer",
+      "commitMessage": "feat: configure persistence or state layer"
+    },
+    {
+      "number": 4,
+      "type": "feat",
+      "title": "implement main workflow",
+      "commitMessage": "feat: implement main workflow"
+    },
+    {
+      "number": 5,
+      "type": "feat",
+      "title": "add public interface",
+      "commitMessage": "feat: add public interface"
+    },
+    {
+      "number": 6,
+      "type": "test",
+      "title": "add automated coverage",
+      "commitMessage": "test: add automated coverage"
+    },
+    {
+      "number": 7,
+      "type": "docs",
+      "title": "add installation and usage documentation",
+      "commitMessage": "docs: add installation and usage documentation"
+    },
+    {
+      "number": 8,
+      "type": "ci",
+      "title": "add build and test workflow",
+      "commitMessage": "ci: add build and test workflow"
+    },
+    {
+      "number": 9,
+      "type": "feat",
+      "title": "add validation rules for wallet payment flow",
+      "commitMessage": "feat: add validation rules for wallet payment flow"
+    },
+    {
+      "number": 10,
+      "type": "feat",
+      "title": "add reporting view for transaction verification",
+      "commitMessage": "feat: add reporting view for transaction verification"
+    },
+    {
+      "number": 11,
+      "type": "feat",
+      "title": "add export or integration support for receipt view",
+      "commitMessage": "feat: add export or integration support for receipt view"
+    },
+    {
+      "number": 12,
+      "type": "refactor",
+      "title": "improve service boundaries for dashboard",
+      "commitMessage": "refactor: improve service boundaries for dashboard"
+    },
+    {
+      "number": 13,
+      "type": "fix",
+      "title": "handle edge cases for payment request creation",
+      "commitMessage": "fix: handle edge cases for payment request creation"
+    },
+    {
+      "number": 14,
+      "type": "perf",
+      "title": "improve query or request performance for qr generation",
+      "commitMessage": "perf: improve query or request performance for qr generation"
+    },
+    {
+      "number": 15,
+      "type": "test",
+      "title": "add integration tests for wallet payment flow",
+      "commitMessage": "test: add integration tests for wallet payment flow"
+    },
+    {
+      "number": 16,
+      "type": "docs",
+      "title": "document architecture decisions for transaction verification",
+      "commitMessage": "docs: document architecture decisions for transaction verification"
+    },
+    {
+      "number": 17,
+      "type": "chore",
+      "title": "add sample data for receipt view",
+      "commitMessage": "chore: add sample data for receipt view"
+    },
+    {
+      "number": 18,
+      "type": "feat",
+      "title": "add audit logging for dashboard",
+      "commitMessage": "feat: add audit logging for dashboard"
+    },
+    {
+      "number": 19,
+      "type": "feat",
+      "title": "add notification flow for payment request creation",
+      "commitMessage": "feat: add notification flow for payment request creation"
+    },
+    {
+      "number": 20,
+      "type": "test",
+      "title": "add regression coverage for qr generation",
+      "commitMessage": "test: add regression coverage for qr generation"
+    }
+  ]
+}

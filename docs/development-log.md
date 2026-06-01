@@ -36,3 +36,7 @@ ci: add build and test workflow
 
 feat: add validation rules for wallet payment flow
 
+## 2026-06-01 - Stage 10
+
+feat: add reporting view for transaction verification
+

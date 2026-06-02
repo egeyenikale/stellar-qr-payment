@@ -40,3 +40,7 @@ feat: add validation rules for wallet payment flow
 
 feat: add reporting view for transaction verification
 
+## 2026-06-02 - Stage 11
+
+feat: add export or integration support for receipt view
+

@@ -53,3 +53,8 @@ export const stage11 = {
   "date": "2026-06-02",
   "message": "feat: add export or integration support for receipt view"
 };
+
+export const stage12 = {
+  "date": "2026-06-02",
+  "message": "refactor: improve service boundaries for dashboard"
+};

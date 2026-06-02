@@ -44,3 +44,7 @@ feat: add reporting view for transaction verification
 
 feat: add export or integration support for receipt view
 
+## 2026-06-02 - Stage 12
+
+refactor: improve service boundaries for dashboard
+

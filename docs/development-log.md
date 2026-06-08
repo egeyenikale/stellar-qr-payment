@@ -52,3 +52,7 @@ refactor: improve service boundaries for dashboard
 
 fix: handle edge cases for payment request creation
 
+## 2026-06-08 - Stage 14
+
+perf: improve query or request performance for qr generation
+

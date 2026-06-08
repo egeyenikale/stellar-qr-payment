@@ -83,3 +83,8 @@ export const stage17 = {
   "date": "2026-06-08",
   "message": "chore: add sample data for receipt view"
 };
+
+export const stage18 = {
+  "date": "2026-06-08",
+  "message": "feat: add audit logging for dashboard"
+};

@@ -68,3 +68,7 @@ docs: document architecture decisions for transaction verification
 
 chore: add sample data for receipt view
 
+## 2026-06-08 - Stage 18
+
+feat: add audit logging for dashboard
+

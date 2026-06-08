@@ -64,3 +64,7 @@ test: add integration tests for wallet payment flow
 
 docs: document architecture decisions for transaction verification
 
+## 2026-06-08 - Stage 17
+
+chore: add sample data for receipt view
+

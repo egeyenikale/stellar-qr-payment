@@ -78,3 +78,8 @@ export const stage16 = {
   "date": "2026-06-08",
   "message": "docs: document architecture decisions for transaction verification"
 };
+
+export const stage17 = {
+  "date": "2026-06-08",
+  "message": "chore: add sample data for receipt view"
+};

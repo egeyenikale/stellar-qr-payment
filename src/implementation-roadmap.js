@@ -73,3 +73,8 @@ export const stage15 = {
   "date": "2026-06-08",
   "message": "test: add integration tests for wallet payment flow"
 };
+
+export const stage16 = {
+  "date": "2026-06-08",
+  "message": "docs: document architecture decisions for transaction verification"
+};

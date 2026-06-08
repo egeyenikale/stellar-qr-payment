@@ -60,3 +60,7 @@ perf: improve query or request performance for qr generation
 
 test: add integration tests for wallet payment flow
 
+## 2026-06-08 - Stage 16
+
+docs: document architecture decisions for transaction verification
+

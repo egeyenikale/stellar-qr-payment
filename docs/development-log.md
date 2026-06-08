@@ -56,3 +56,7 @@ fix: handle edge cases for payment request creation
 
 perf: improve query or request performance for qr generation
 
+## 2026-06-08 - Stage 15
+
+test: add integration tests for wallet payment flow
+

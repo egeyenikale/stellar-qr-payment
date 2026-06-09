@@ -76,3 +76,7 @@ feat: add audit logging for dashboard
 
 feat: add notification flow for payment request creation
 
+## 2026-06-09 - Stage 20
+
+test: add regression coverage for qr generation
+

@@ -72,3 +72,7 @@ chore: add sample data for receipt view
 
 feat: add audit logging for dashboard
 
+## 2026-06-09 - Stage 19
+
+feat: add notification flow for payment request creation
+
